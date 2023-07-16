@@ -9,18 +9,15 @@ mateus0205/mateus0205 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 <div align="center">
-  <a href="https://github.com/duribeiro">
+  <a href="https://github.com/mateus0205">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mateus0205&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus0205&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
-
-
-
 <div align="center">
 
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/mateus0205/mateus0205/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
