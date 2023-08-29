@@ -15,9 +15,3 @@ You can click the Preview link to take a look at your changes.
   </a>
 </div>
 
-<div align="center">
-
-  ![Snake animation](https://github.com/mateus0205/mateus0205/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
-
