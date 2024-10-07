@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mateus0205
 - 👀 I’m interested in web programming
-- 🌱 I’m currently learning html, css, javaScript, C, C++
+- 🌱 I’m currently learning html, css, javaScript, C, C++, Python
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me mm543569@gmail.com
 - 🖥 visit my repository at https://github.com/mateus0205?tab=repositories
