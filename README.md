@@ -1,16 +1,27 @@
-- 👋 Hi, I’m @mateus0205
-- 👀 I’m interested in web programming
-- 🌱 I’m currently learning html, css, javaScript, C, C++, Python
-- 💞️ I’m looking to collaborate on web development projects
-- 📫 How to reach me mm543569@gmail.com
-- 🖥 visit my repository at https://github.com/mateus0205?tab=repositories
-<!---
-mateus0205/mateus0205 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Hello! I'm Mateus
+
+I'm passionate about web programming and constantly learning new technologies to improve my skills.
+
+## 🚀 About Me
+- 🔭 I’m currently working on **web development projects**.
+- 🌱 Learning: **HTML**, **CSS**, **JavaScript**, **C**, **C++**, **Python**.
+- 👯 I’m looking to collaborate on **open-source web projects**.
+- 📫 Reach me: mm543569@gmail.com
+- 💼 Check out my portfolio: [GitHub Repositories](https://github.com/mateus0205?tab=repositories)
+
+## ⚡ Technologies
+- **Frontend**: HTML, CSS, JavaScript, UI/UX
+- **Backend**: Python, C, C++
+- **Tools**: Git, GitHub
+
+## 📈 GitHub Stats
 <div align="center">
   <a href="https://github.com/mateus0205">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mateus0205&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true" />
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus0205&count_private=true&include_all_commits=true&hide_border=false&layout=compact" />
   </a>
 </div>
+
+---
+
+✨ Feel free to check out my repositories, collaborate, and follow me for more updates!
