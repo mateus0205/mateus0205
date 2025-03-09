@@ -10,9 +10,9 @@ I'm passionate about web programming and constantly learning new technologies to
 - 💼 Check out my portfolio: [GitHub Repositories](https://github.com/mateus0205?tab=repositories)
 
 ## ⚡ Technologies
-- **Frontend**: HTML, CSS, JavaScript, UI/UX
-- **Backend**: Python, C, C++
-- **Tools**: Git, GitHub
+- **Frontend**: HTML, CSS, JavaScript, UI/UX;
+- **Backend**: Python, C, C++;
+- **Tools**: Git, GitHub;
 
 ## 📈 GitHub Stats
 <div align="center">
