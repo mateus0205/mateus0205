@@ -25,6 +25,7 @@ I'm passionate about web programming and constantly learning new technologies to
 <div style="display: inline_block"><br>
   <img align="center" alt="mateus-python" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
 </div>
-<img src="https://raw.githubusercontent.com/mateus0205/mateus0205/output/snake.svg" alt="Snake animation" />
 
-###✨ Feel free to check out my repositories, collaborate, and follow me for more updates!
+<img src="https://raw.githubusercontent.com/mateus0205/mateus0205/output/pacman-contribution-graph.svg" alt="Pacman animation" />
+
+✨ Feel free to check out my repositories, collaborate, and follow me for more updates!
