@@ -1,64 +1,115 @@
-# 👋 Hey, I'm Mateus!
-
-💻 A passionate **Web Developer** always exploring new technologies and building cool things on the internet.
+<div align="center">
+  <h1>👋 Hello, I'm Mateus</h1>
+  <h3>Full-Stack Web Developer & UI/UX Enthusiast</h3>
+  
+  <p>
+    <a href="mailto:mm543569@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://github.com/mateus0205">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="https://github.com/mateus0205?tab=repositories">
+      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
+    </a>
+  </p>
+</div>
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 Currently working on **personal and freelance web development projects**
-- 📚 Constantly learning: **HTML**, **CSS**, **JavaScript**, **React**, **TypeScript**, **Python**, **C/C++**
-- 🤝 Looking to collaborate on **open-source web projects**
-- 💡 Interested in **UI/UX**, frontend performance, and accessible interfaces
-- 📫 Reach me: **mm543569@gmail.com**
-- 🌐 Check out my portfolio & projects: [GitHub Repositories](https://github.com/mateus0205?tab=repositories)
+I'm a passionate web developer with a strong focus on creating exceptional user experiences and robust web applications. I enjoy exploring cutting-edge technologies and contributing to open-source projects that make a difference.
+
+- 🔭 **Currently:** Working on personal and freelance web development projects
+- 🌱 **Learning:** Advanced React patterns, TypeScript, and modern web technologies
+- 👯 **Open to:** Collaborating on innovative open-source web projects
+- 💡 **Interests:** UI/UX Design, Frontend Performance, Web Accessibility
+- 📫 **Contact:** mm543569@gmail.com
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tech Stack
 
-### 👨‍💻 Languages
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus)
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+</p>
 
-### 💻 Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![UI/UX](https://img.shields.io/badge/-UI%2FUX-000000?style=flat&logo=figma&logoColor=white)
+### Frontend Development
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+</p>
 
-### 🛠️ Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
+### Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+</p>
 
 ---
 
-➡️ See all at [GitHub Profile](https://github.com/mateus0205?tab=repositories)
-
----
-
-## 📈 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mateus0205&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mateus0205&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateus0205&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus0205&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mateus0205&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
-## 🐍 Contribution Activity Snake
-###
-<img src="https://raw.githubusercontent.com/mateus0205/mateus0205/output/snake.svg" alt="Snake animation" />
-###
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mateus0205&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</div>
 
 ---
 
+## 📈 Contribution Activity
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mateus0205/mateus0205/output/snake.svg" alt="Snake animation" />
+</div>
 
-✨ *Feel free to explore my repositories, contribute, or connect with me for collaboration!*
+---
+
+## 🎯 Current Focus
+
+- 🔥 Building responsive and accessible web applications
+- 🚀 Exploring modern JavaScript frameworks and libraries
+- 🎨 Improving UI/UX design skills
+- 🤝 Contributing to open-source projects
+- 📚 Continuous learning and skill development
+
+---
+
+## 💼 Let's Connect
+
+I'm always interested in discussing new opportunities, collaborating on projects, or simply connecting with fellow developers. Feel free to reach out!
+
+<div align="center">
+  <p>
+    <strong>📧 Email:</strong> mm543569@gmail.com<br>
+    <strong>🔗 Portfolio:</strong> <a href="https://github.com/mateus0205?tab=repositories">View My Projects</a>
+  </p>
+</div>
+
+---
+
+<div align="center">
+  <i>⭐ From <a href="https://github.com/mateus0205">mateus0205</a> - Let's build something amazing together!</i>
+</div>
