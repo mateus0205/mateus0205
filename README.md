@@ -60,21 +60,24 @@ I'm a passionate web developer with a strong focus on creating exceptional user 
 
 ## 📊 GitHub Analytics
 
+<!-- Versão mais estável das estatísticas -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateus0205&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus0205&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateus0205&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=false&hide_border=true&cache_seconds=86400" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus0205&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </div>
 
+<!-- Streak stats - geralmente mais estável -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mateus0205&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=mateus0205&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Activity
 
+<!-- Versão simplificada que funciona melhor -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mateus0205&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mateus0205&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" alt="GitHub Trophies" />
 </div>
 
 ---
