@@ -1,121 +1,79 @@
-<div align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Mateus;Full-Stack+Web+Developer;UI%2FUX+Enthusiast" alt="Typing SVG" />
-  
-  <div align="center" style="margin: 20px 0;">
-    <a href="mailto:mm543569@gmail.com">
-      <img src="https://img.shields.io/badge/-mm543569@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-    <a href="https://github.com/mateus0205">
-      <img src="https://img.shields.io/badge/-@mateus0205-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-    </a>
-    <a href="https://github.com/mateus0205?tab=repositories">
-      <img src="https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=todoist&logoColor=white" alt="Portfolio"/>
-    </a>
-  </div>
-</div>
+<h1 align="center">Mateus</h1>
+
+<p align="center">
+  Quality Assurance Analyst — and building toward front-end development.
+</p>
+
+<p align="center">
+  <a href="https://mateusdevportifolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0A66C2?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://github.com/mateus0205"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="mailto:mm543569@gmail.com"><img src="https://img.shields.io/badge/Email-c14438?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-<div align="center">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus0205&layout=compact&theme=tokyonight&hide_border=true" width="40%" alt="Top Languages"/>
-</div>
+I work in **Quality Assurance** — test planning, test case design, defect reporting and
+regression cycles. My job is to find the ways software breaks before users do.
 
-Passionate web developer focused on creating exceptional user experiences and robust web applications. I enjoy exploring cutting-edge technologies and contributing to meaningful open-source projects.
+In parallel I'm **moving into front-end development**, and the projects below are where
+that happens: client sites, small tools and interfaces in JavaScript and TypeScript,
+deployed and kept running on Vercel.
 
-- 🔭 **Currently:** Building personal and freelance web projects
-- 🌱 **Learning:** Advanced React, TypeScript, and modern web tech
-- 👯 **Looking to:** Collaborate on innovative open-source projects
-- 💡 **Interests:** UI/UX Design, Performance Optimization, Accessibility
-- 📫 **Reach me:** mm543569@gmail.com
+QA changed how I build. I write interfaces expecting bad input, edge cases and the
+unhappy path — because finding exactly those is what I do all day.
 
----
+Alongside both, my background covers lower-level and systems topics: MIPS assembly,
+parallel computing, digital image processing and performance analysis in C and Python.
 
-## 🛠 Tech Stack
-
-### 🔡 Languages
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp" alt="Languages" />
-</div>
-
-### 🌐 Frontend
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" alt="Frontend" />
-</div>
-
-### 🛠️ Tools & Platforms
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,wordpress" alt="Tools" />
-</div>
+Currently open to front-end opportunities, freelance work and collaboration.
 
 ---
 
-## 📊 GitHub Stats
+## Selected Work
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mateus0205&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mateus0205&theme=tokyonight&hide_border=true" width="48%" alt="Streak Stats"/>
-</div>
+| Project | What it does | Stack | Live |
+|---|---|---|---|
+| **[MIPS Code Converter](https://github.com/mateus0205/ConversorCodigoParaMaquinaReal-Mips)** | Translates MIPS assembly into real machine code, instruction by instruction | TypeScript | [Demo](https://conversor-codigo-para-maquina-real.vercel.app) |
+| **[Healthcare Portfolio](https://github.com/mateus0205/portifolioPessoalSaude)** | Client site for a nursing professional — design, build and deploy | HTML · CSS · JS | [Live](https://enfermeirarebeca.vercel.app/) |
+| **[AI Chatbot](https://github.com/mateus0205/chatbot)** | Chatbot that answers as domain-specific specialists, backed by an LLM | Web · LLM API | [Demo](https://chatbot-eta-opal-65.vercel.app/) |
+| **[Mapa Programador](https://github.com/mateus0205/mapaProgramador)** | A learning roadmap for programmers, built as a static site | HTML · CSS | [Live](https://mateus0205.github.io/mapaProgramador/) |
+| **[Bean Counter](https://github.com/mateus0205/ContarFeijao_ProjetoFInalPDI)** | Counts beans in an image using digital image processing techniques | Python · OpenCV | — |
+| **[Performance Analysis](https://github.com/mateus0205/AnaliseDesempenho)** | Benchmarking and performance measurement experiments | C | — |
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mateus0205&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&column=6" alt="GitHub Trophies" />
-</div>
-
----
-
-## 🎯 Current Focus
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="20%">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
-        <br/>React
-      </td>
-      <td align="center" width="20%">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/>
-        <br/>TypeScript
-      </td>
-      <td align="center" width="20%">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma"/>
-        <br/>UI/UX
-      </td>
-      <td align="center" width="20%">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>
-        <br/>Backend
-      </td>
-      <td align="center" width="20%">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
-        <br/>Open Source
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mateus0205/mateus0205/output/snake.svg" alt="Snake animation" />
-</div>
-
+More at [github.com/mateus0205?tab=repositories](https://github.com/mateus0205?tab=repositories).
 
 ---
 
-## 💼 Let's Connect
+## Technical Background
 
-I'm always interested in discussing new opportunities, collaborating on projects, or simply connecting with fellow developers. Feel free to reach out!
+<!-- Troque a linha abaixo pelas ferramentas que você realmente usa:
+     Cypress, Playwright, Selenium, Postman, Jira, TestRail, Xray, Zephyr... -->
+**Quality Assurance** — test planning, test case design, defect reporting, regression testing, Postman, AzureDevOps
 
-<div align="center">
-  <p>
-    <strong>📧 Email:</strong> mm543569@gmail.com<br>
-    <strong>🔗 Portfolio:</strong> <a href="https://github.com/mateus0205?tab=repositories">View My Projects</a>
-  </p>
-</div>
+**Languages** — TypeScript, JavaScript, Python, C, C++
+
+**Web** — React, Next.js, Tailwind CSS, HTML, CSS
+
+**Tools** — Git, Vercel, Figma, VS Code
+
+**Also worked with** — MIPS assembly, parallel programming, image processing
 
 ---
 
-<div align="center">
-  <i>⭐ From <a href="https://github.com/mateus0205">mateus0205</a> - Let's build something amazing together!</i>
-</div>
+## GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mateus0205&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus0205&layout=compact&theme=tokyonight&hide_border=true" width="38%" alt="Top languages"/>
+</p>
+
+---
+
+## Contact
+
+Open to front-end roles, QA work, freelance projects and collaboration.
+
+- **Email** — [mm543569@gmail.com](mailto:mm543569@gmail.com)
+- **Portfolio** — [mateusdevportifolio.vercel.app](https://mateusdevportifolio.vercel.app)
